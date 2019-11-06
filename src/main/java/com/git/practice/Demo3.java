@@ -9,4 +9,8 @@ public class Demo3 {
 		System.out.println("Demo3 fun2()");
 	}
 	
+	public void fun3Demo3() {
+		System.out.println("Demo3 fun3()");
+	}
+	
 }
