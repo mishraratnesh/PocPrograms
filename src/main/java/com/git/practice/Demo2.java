@@ -4,4 +4,7 @@ public class Demo2 {
 	public void funDemo2() {
 		System.out.println("Demo2 fun()");
 	}
+	public void fun2Demo2() {
+		System.out.println("Demo2 fun2()");
+	}
 }
